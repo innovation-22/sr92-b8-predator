@@ -3,10 +3,10 @@ import os
 # Create the generated directory if it doesn't exist
 os.makedirs("generated", exist_ok=True)
 
-report_content = """# DOCUMENTO OFICIAL: PROJETO SR-92 B7 "PREDADOR"
+report_content = """# DOCUMENTO ESPECULATIVO: PROJETO SR-92 B7 "PREDADOR"
 ERA QUÂNTICA:Operação: 100% Autônoma (Sem Cockpit / IA Quântica)
 Classificação: Ultra-Secreto / Nível Soberania Global
-Fase: Conceito de Engenharia Homologado (Orçamento: Escala de Trilhões)
+Fase: Conceito de Engenharia Homologado (Orçamento: Escala ??? )
 Operação: Híbrida (Autonomia de Voo com Supervisão Estratégica Humana)
 
 ===============================================================================
