@@ -3,7 +3,7 @@ import os
 # Create the generated directory if it doesn't exist
 os.makedirs("generated", exist_ok=True)
 
-report_content = """# DOCUMENTO ESPECULATIVO: PROJETO SR-92 B7 "PREDADOR"
+report_content = """# DOCUMENTO ESPECULATIVO: PROJETO SR-92 B8 "PREDADOR"
 ERA QUÂNTICA:Operação: 100% Autônoma (Sem Cockpit / IA Quântica)
 Classificação: Ultra-Secreto / Nível Soberania Global
 Fase: Conceito de Engenharia Homologado (Orçamento: Escala ??? )
@@ -12,7 +12,7 @@ Operação: Híbrida (Autonomia de Voo com Supervisão Estratégica Humana)
 ===============================================================================
 1. ESPECIFICAÇÕES DIMENSIONAIS E ESTÉTICA
 ===============================================================================
-O SR-92 B7 abandona o design de caças tradicionais, adotando o porte imponente de um bombardeiro estratégico com a silhueta agressiva de um predador alfa.
+O SR-92 B8 abandona o design de caças tradicionais, adotando o porte imponente de um bombardeiro estratégico com a silhueta agressiva de um predador alfa.
 
 * Comprimento: 49 metros (O dobro do tamanho de um caça comum, garantindo volume para carga e sistemas internos).
 * Design: Blended Wing Body (Fuselagem e asas fundidas em uma única peça contínua, formato de arraia ou ponta de lança triangular ultra-afiada).
@@ -26,19 +26,19 @@ O SR-92 B7 abandona o design de caças tradicionais, adotando o porte imponente 
 Projetada para suportar curvas inimagináveis e calor extremo sem sofrer fadiga estrutural ou desintegração atômica.
 
 * Composto Quimera: Matriz cerâmica aeroespacial ultra-avançada (resistente a choques térmicos) blindada internamente por uma malha tridimensional híbrida de Folhas de Grafeno (2D) e Nanotubos de Carbono (1D) para distribuição e dissipação instantânea de estresse mecânico.
-* Resistência G: Capacidade estrutural testada para suportar curvas brutais de até 80 Gs em ambiente hipersônico.
+* Resistência G: Capacidade estrutural testada para suportar curvas brutais de até 50 Gs em ambiente hipersônico.
 * Baterias Estruturais de Grafeno: Os espaços vazios entre as paredes dos compartimentos e a fuselagem externa são preenchidos com um composto que armazena energia elétrica na própria estrutura do caça.
 * Pele Transpirante Ativa: Micro-poros ao longo da fuselagem expelem uma fina camada de gás combustível endotérmico resfriado, criando um escudo térmico que impede o ar a 2000°C de tocar diretamente o material quimera.
 
 ===============================================================================
 3. PROPULSÃO E FLUIDODINÂMICA AVANÇADA (CHAPS)
 ===============================================================================
-O SR-92 B7 não apenas resiste ao atrito, ele usa as leis da física para se alimentar dele.
+O SR-92 B8 não apenas resiste ao atrito, ele usa as leis da física para se alimentar dele.
 utiliza uma arquitetura de propulsão híbrida em
 altos regimes de rendimento térmico, gerenciamento de fluxo e
 hidrodinâmica de alta performance:
 
-* O novo sistema de propulsão do B7 CHAPS (Ciclo híbrido avançado)
+* O novo sistema de propulsão do B8 CHAPS (Ciclo híbrido avançado)
   - Camada 1 (Indução Eletromag-Ramjet): Operação de solo até Mach 3.0.
   - Mecanismo: Campos magnéticos rotativos ionizam o ar atmosférico.
   - Geometria de Exaustão: Linha Horizontal Achatada (Baixo Arrasto).
@@ -52,13 +52,13 @@ hidrodinâmica de alta performance:
  - Arquitetura AHED: Transição dinâmica dos bocais para transição trans-atmosferica/Vácuo (modo Matrix 2x2).
  - (MHD): Bobinas magnéticas supercondutoras no nariz e asas capturam o plasma ionizado gerado nas curvas violentas, freando o ar magneticamente para gerar gigawatts de eletricidade e alimentar os sistemas eletrônicos e lasers.
  - Combustão Endotérmica: O combustível circula pelas asas antes da queima, absorvendo o calor do atrito. Ele entra na câmara do Scramjet já superaquecido a 1000°C, gerando uma explosão de empuxo que projeta o caça a Mach 7 de forma instantânea.
- - Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 80 Gs.
+ - Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 50 Gs.
 
 ===============================================================================
 4. ARQUITETURA DE EXAUSTÃO DINÂMICA (AHED) - 4 BOCAIS
 ===============================================================================
 
-O sistema de exaustão do SR-92 B7 foi projetado para eliminar compromissos 
+O sistema de exaustão do SR-92 B8 foi projetado para eliminar compromissos 
 entre o desempenho aerodinâmico atmosférico e a manobrabilidade espacial, 
 utilizando um arranjo inteligente de quatro bocais magnéticos independentes:
 
@@ -88,7 +88,7 @@ utilizando um arranjo inteligente de quatro bocais magnéticos independentes:
 ================================================================================
 1. ARQUITETURA DE PROPULSÃO: TRÍADE ENERGÉTICA (TEA)
 ================================================================================
-O SR-92 B7 utiliza uma arquitetura de propulsão híbrida em três camadas para suportar
+O SR-92 B8 utiliza uma arquitetura de propulsão híbrida em três camadas para suportar
 altos regimes de rendimento térmico, gerenciamento de fluxo de plasma por magneto-
 hidrodinâmica e resposta de ignição instantânea a baixas altitudes.
 
@@ -109,7 +109,7 @@ hidrodinâmica e resposta de ignição instantânea a baixas altitudes.
 ================================================================================
 2. TERMORREGULAÇÃO AVANÇADA: PELE TRANSPIRANTE E ESCUDO TÉRMICO
 ================================================================================
-Para impedir que o fluxo de ar a 2.000 °C comprometa a integridade da fuselagem em voos de baixa cota e alta velocidade, o SR-92 B7 emprega um sistema de resfriamento ativo de superfície integrado à propulsão:
+Para impedir que o fluxo de ar a 2.000 °C comprometa a integridade da fuselagem em voos de baixa cota e alta velocidade, o SR-92 B8 emprega um sistema de resfriamento ativo de superfície integrado à propulsão:
 
 * Micro-Porosidade e Isolação Superficial:
   - Microporos estrategicamente distribuídos ao longo do Material Quimera expelem continuamente uma fina camada de gás combustível endotérmico refrigerado.
@@ -129,7 +129,7 @@ Para impedir que o fluxo de ar a 2.000 °C comprometa a integridade da fuselagem
 Uma inteligência artificial desenvolvida exclusivamente para o projeto, baseada em Aprendizado por Reforço e auditada em supercomputadores de simulação atmosférica.
 
 * Camada Alfa (Cérebro Executivo - Dependência Humana): Responsável pelas decisões éticas e táticas. Recebe ordens criptografadas dos supervisores humanos em solo. Nenhum míssil ou arma é disparado sem autorização humana expressa.
-* Camada Beta (Cérebro Reflexo - Autonomia Total): Sistema de controle cibernético de voo e sobrevivência. Diante de ameaças com tempo de resposta em milissegundos, a Camada Beta assume o controle físico instantaneamente, realizando manobras de até 80 Gs de forma 100% autônoma para salvar a aeronave.
+* Camada Beta (Cérebro Reflexo - Autonomia Total): Sistema de controle cibernético de voo e sobrevivência. Diante de ameaças com tempo de resposta em milissegundos, a Camada Beta assume o controle físico instantaneamente, realizando manobras de até 50 Gs de forma 100% autônoma para salvar a aeronave.
 * Inteligência Artificial Explicável (XAI): Linhas de código auditáveis em tempo real para evitar comportamento inesperado ou "surtos" de software durante o regime hipersônico.
 
 ===============================================================================
