@@ -31,16 +31,60 @@ Projetada para suportar curvas inimagináveis e calor extremo sem sofrer fadiga 
 * Pele Transpirante Ativa: Micro-poros ao longo da fuselagem expelem uma fina camada de gás combustível endotérmico resfriado, criando um escudo térmico que impede o ar a 2000°C de tocar diretamente o material quimera.
 
 ===============================================================================
-3. PROPULSÃO E FLUIDODINÂMICA QUÂNTICA
+3. PROPULSÃO E FLUIDODINÂMICA AVANÇADA (CHAPS)
 ===============================================================================
 O SR-92 B7 não apenas resiste ao atrito, ele usa as leis da física para se alimentar dele.
+utiliza uma arquitetura de propulsão híbrida em
+altos regimes de rendimento térmico, gerenciamento de fluxo e
+hidrodinâmica de alta performance:
 
-* Velocidade de Cruzeiro: Mach 4.0
-* Velocidade de Ataque: Mach 7.0+
-* Motor Scramjet Magneto-Hidrodinâmico (MHD): Bobinas magnéticas supercondutoras no nariz e asas capturam o plasma ionizado gerado nas curvas violentas, freando o ar magneticamente para gerar gigawatts de eletricidade e alimentar os sistemas eletrônicos e lasers.
-* Combustão Endotérmica: O combustível circula pelas asas antes da queima, absorvendo o calor do atrito. Ele entra na câmara do Scramjet já superaquecido a 1000°C, gerando uma explosão de empuxo que projeta o caça a Mach 7 de forma instantânea.
-* Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 80 Gs.
+* O novo sistema de propulsão do B7 CHAPS (Ciclo híbrido avançado)
+  - Camada 1 (Indução Eletromag-Ramjet): Operação de solo até Mach 3.0.
+  - Mecanismo: Campos magnéticos rotativos ionizam o ar atmosférico.
+  - Geometria de Exaustão: Linha Horizontal Achatada (Baixo Arrasto).
 
+* Camada 2 (Detonação Pulsada de Plasma Supercrítico): Regime de Mach 3.0 a Mach 12.0.
+  - Mecanismo: Ondas de choque por plasma supercrítico em alta frequência.
+  - Otimização: Máxima eficiência térmica e esteira aerodinâmica.
+
+* Camada 3 (Fusão Magneto-Inercial - MIF): Operação Trans-Atmosférica/Vácuo.
+ - Mecanismo: Feixes de íons acelerados magneticamente.
+ - Arquitetura AHED: Transição dinâmica dos bocais para transição trans-atmosferica/Vácuo (modo Matrix 2x2).
+ - (MHD): Bobinas magnéticas supercondutoras no nariz e asas capturam o plasma ionizado gerado nas curvas violentas, freando o ar magneticamente para gerar gigawatts de eletricidade e alimentar os sistemas eletrônicos e lasers.
+ - Combustão Endotérmica: O combustível circula pelas asas antes da queima, absorvendo o calor do atrito. Ele entra na câmara do Scramjet já superaquecido a 1000°C, gerando uma explosão de empuxo que projeta o caça a Mach 7 de forma instantânea.
+ - Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 80 Gs.
+
+===============================================================================
+4. ARQUITETURA DE EXAUSTÃO DINÂMICA (AHED) - 4 BOCAIS
+===============================================================================
+
+O sistema de exaustão do SR-92 B7 foi projetado para eliminar compromissos 
+entre o desempenho aerodinâmico atmosférico e a manobrabilidade espacial, 
+utilizando um arranjo inteligente de quatro bocais magnéticos independentes:
+
+* Configuração Modular e Geometria Variável (AHED)
+  - Número de Bocais: 4 bocais de empuxo vetorial magnético de alta energia.
+  - Atuadores de Giro: Anéis magnéticos rotativos de alta precisão que reconfiguram 
+    a posição física dos bocais em tempo real conforme o envelope de voo.
+
+* Modo Atmosférico (Linha Horizontal Achatada)
+  - Alinhamento: Os 4 bocais se organizam em uma fenda horizontal estendida 
+    na seção traseira da fuselagem.
+  - Função: Maximiza a esteira aerodinâmica, reduz drasticamente o arrasto 
+    e otimiza a assinatura térmica e de radar (Perfil Stealth).
+
+* Modo Trans-Atmosférico / Vácuo Orbital (Matriz Quadrada 2x2)
+  - Alinhamento: Os bocais se reposicionam dinamicamente em uma matriz 
+    compacta em bloco (2x2).
+  - Função: Concentra o vetor de empuxo no eixo central e permite controle 
+    tridimensional completo (Pitch, Roll e Yaw) no vácuo, onde as asas perdem efeito.
+
+* Vantagens de Sobrevivência e Redundância
+  - Distribuição Térmica: O calor extremo do plasma e da fusão é dividido 
+    em quatro fluxos menores, aliviando o estresse estrutural dos materiais.
+  - Tolerância a Falhas: Se um dos 4 bocais sofrer danos, os outros três 
+    compensam o vetor de empuxo instantaneamente por aviônica quântica.
+    
 ================================================================================
 1. ARQUITETURA DE PROPULSÃO: TRÍADE ENERGÉTICA (TEA)
 ================================================================================
@@ -58,7 +102,7 @@ hidrodinâmica e resposta de ignição instantânea a baixas altitudes.
   - Controle de Admissão: Desacelera o ar de entrada por indução magnética, convertendo energia cinética bruta em eletricidade de bordo.
   - Aceleração de Exaustão: Reenergiza o plasma térmico no canal de saída, maximizando o empuxo axial sem peças móveis mecânicas.
 
-* Camada 3 (Catalisador de Ignição por Ressonância Quântica - Era Quântica):
+* Camada 3 (Catalisador de Ignição por Ressonância Quântica)
   - Tempo de Ignição: Ativação catalítica em sub-milissegundos gerenciada pelo nó de computação quântica autônoma (Human-in-the-Loop).
   - Estabilidade de Combustão: Elimina atrasos e instabilidades em transições rápidas de velocidade (regimes de Mach 2.0 a Mach 3.0+) em ar denso.
 
