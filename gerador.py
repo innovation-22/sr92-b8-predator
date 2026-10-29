@@ -26,7 +26,7 @@ O SR-92 B8 abandona o design de caças tradicionais, adotando o porte imponente 
 Projetada para suportar curvas inimagináveis e calor extremo sem sofrer fadiga estrutural ou desintegração atômica.
 
 * Composto Quimera: Matriz cerâmica aeroespacial ultra-avançada (resistente a choques térmicos) blindada internamente por uma malha tridimensional híbrida de Folhas de Grafeno (2D) e Nanotubos de Carbono (1D) para distribuição e dissipação instantânea de estresse mecânico.
-* Resistência G: Capacidade estrutural testada para suportar curvas brutais de até 50 Gs em ambiente hipersônico.
+* Resistência G: Capacidade estrutural testada para suportar curvas de até 26 Gs em ambiente hipersônico.
 * Baterias Estruturais de Grafeno: Os espaços vazios entre as paredes dos compartimentos e a fuselagem externa são preenchidos com um composto que armazena energia elétrica na própria estrutura do caça.
 * Pele Transpirante Ativa: Micro-poros ao longo da fuselagem expelem uma fina camada de gás combustível endotérmico resfriado, criando um escudo térmico que impede o ar a 2000°C de tocar diretamente o material quimera.
 
@@ -52,7 +52,7 @@ hidrodinâmica de alta performance:
  - Arquitetura AHED: Transição dinâmica dos bocais para transição trans-atmosferica/Vácuo (modo Matrix 2x2).
  - (MHD): Bobinas magnéticas supercondutoras no nariz e asas capturam o plasma ionizado gerado nas curvas violentas, freando o ar magneticamente para gerar gigawatts de eletricidade e alimentar os sistemas eletrônicos e lasers.
  - Combustão Endotérmica: O combustível circula pelas asas antes da queima, absorvendo o calor do atrito. Ele entra na câmara do Scramjet já superaquecido a 1000°C, gerando uma explosão de empuxo que projeta o caça a Mach 7 de forma instantânea.
- - Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 50 Gs.
+ - Atuadores de Plasma: Substituem os flaps mecânicos. Micro-canais nas bordas das asas liberam descargas elétricas de alta voltagem para ionizar o ar ao redor. A IA muda a direção do avião alterando o fluxo de ar eletricamente, garantindo a execução segura dos 26 Gs.
 
 ===============================================================================
 4. ARQUITETURA DE EXAUSTÃO DINÂMICA (AHED) - 4 BOCAIS
@@ -129,7 +129,7 @@ Para impedir que o fluxo de ar a 2.000 °C comprometa a integridade da fuselagem
 Uma inteligência artificial desenvolvida exclusivamente para o projeto, baseada em Aprendizado por Reforço e auditada em supercomputadores de simulação atmosférica.
 
 * Camada Alfa (Cérebro Executivo - Dependência Humana): Responsável pelas decisões éticas e táticas. Recebe ordens criptografadas dos supervisores humanos em solo. Nenhum míssil ou arma é disparado sem autorização humana expressa.
-* Camada Beta (Cérebro Reflexo - Autonomia Total): Sistema de controle cibernético de voo e sobrevivência. Diante de ameaças com tempo de resposta em milissegundos, a Camada Beta assume o controle físico instantaneamente, realizando manobras de até 50 Gs de forma 100% autônoma para salvar a aeronave.
+* Camada Beta (Cérebro Reflexo - Autonomia Total): Sistema de controle cibernético de voo e sobrevivência. Diante de ameaças com tempo de resposta em milissegundos, a Camada Beta assume o controle físico instantaneamente, realizando manobras de até 26 Gs de forma 100% autônoma para salvar a aeronave.
 * Inteligência Artificial Explicável (XAI): Linhas de código auditáveis em tempo real para evitar comportamento inesperado ou "surtos" de software durante o regime hipersônico.
 
 ===============================================================================
@@ -156,20 +156,6 @@ Toda a carga útil é mantida oculta para manter o perfil stealth e aerodinâmic
 ===============================================================================
 - Tambor tipo "pistola" interno na barriga da aeronave para preservar a furtividade.
 - Trilho eletromagnético para ejeção a frio (afasta o míssil antes da ignição, evitando danos térmicos).
-- Código de controle embarcado (Simulação):
-import time
-class HypersonicArsenalSystem:
-    def __init__(self, total_slots: int):
-        self.total_slots = total_slots
-        self.current_position = 0
-        self.ammo_status = ["Ready"] * total_slots
-    def rotate_drum(self, target_slot: int):
-        if 0 <= target_slot < self.total_slots:
-            self.current_position = target_slot
-    def cold_launch_sequence(self, missile_id: int):
-        print(f"Ejetando míssil #{missile_id} a frio...")
-        time.sleep(1)
-        print("Ignição do motor acionada no ar.")
 ===============================================================================
 2. DEEP MAGAZINE (MAGAZINE PROFUNDO E MASSIVO)
 - Armazenamento interno massivo em compartimentos blindados e modulares.
@@ -184,7 +170,7 @@ class HypersonicArsenalSystem:
 
 """
 
-file_path = "generated/Projeto_SR-92_B6_Predador.txt"
+file_path = "generated/Projeto_SR-92_B8_Predador.txt"
 with open(file_path, "w", encoding="utf-8") as f:
     f.write(report_content.strip())
 
